@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm Aindrila Bhattacharya!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aindrila-bhattacharya)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/aindrila_25)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/aindrila_25)
-
 ## 🚀 About Me
 
 I'm a passionate Computer Application student and aspiring Frontend Developer. Currently pursuing my BCA at Techno Main Saltlake, Kolkata, I'm on a journey to enhance my knowledge and improve my skills in the world of web development.
@@ -45,7 +41,7 @@ I'm a passionate Computer Application student and aspiring Frontend Developer. C
 ## 🌐 Connect with me
 
 - GitHub: [aindrila25](https://github.com/aindrila25)
-- Coding Ninjas: [Aindrila Bhattacharya](https://www.codingninjas.com/studio/profile/Aindrila)
+- Coding Ninjas: [Aindrila Bhattacharya](https://www.naukri.com/code360/profile/eb6dc63d-6b97-49e9-9dfd-9643f00cfa8a)
 - Email: aindrila2507@gmail.com
 
 ## ⚡ Fun fact
